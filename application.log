@@ -1,0 +1,718 @@
+2024-09-22 19:09:26 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 19:09:26 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 19:09:26 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 19:09:26 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 19:09:26 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 19:09:29 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 19:09:29 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 19:09:29 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 19:09:29 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 19:09:29 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 19:10:46 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 19:10:46 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 19:10:46 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 19:10:46 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 19:10:46 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 19:10:49 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 19:10:49 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 19:10:49 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 19:10:49 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 19:10:49 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 19:13:24 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 19:13:24 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 19:13:24 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 19:13:24 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 19:13:24 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 19:13:27 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 19:13:27 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 19:13:27 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 19:13:27 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 19:13:27 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 19:13:33 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 19:13:33 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 19:13:33 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 19:13:33 INFO  SignupPage:33 - SignupPage elements initialized.
+  2024-09-22 19:13:33 INFO  SignupPage:37 - Filling in signup details: FirstName=John, LastName=Doe, Email=john.doe@email.com
+  2024-09-22 19:13:43 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 19:13:43 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 19:13:43 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 19:13:43 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 19:13:43 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 19:13:44 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 19:13:44 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 19:13:44 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 19:13:44 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 19:13:45 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 19:13:51 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 19:13:51 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 19:13:51 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 19:13:51 INFO  SignupPage:33 - SignupPage elements initialized.
+  2024-09-22 19:13:51 INFO  SignupPage:54 - Validating that the signup fields are displayed and enabled.
+  2024-09-22 19:20:29 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 19:20:29 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 19:20:29 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 19:20:29 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 19:20:29 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 19:20:31 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 19:20:31 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 19:20:31 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 19:20:31 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 19:20:31 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 19:20:35 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 19:20:35 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 19:20:35 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 19:20:35 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 19:20:35 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 19:20:35 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 19:20:35 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 19:20:35 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 19:20:35 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 19:20:37 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 19:20:37 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 19:20:37 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 19:20:37 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 19:20:37 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 19:20:41 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 19:20:41 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 19:20:41 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 19:20:41 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 19:22:29 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 19:22:29 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 19:22:29 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 19:22:29 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 19:22:29 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 19:22:32 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 19:22:32 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 19:22:32 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 19:22:32 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 19:22:32 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 19:22:35 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 19:22:35 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 19:22:35 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 19:22:35 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 19:22:35 INFO  HomePage:86 - Navigating to User account page.
+  2024-09-22 19:22:39 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 19:22:39 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 19:22:39 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 19:22:39 INFO  SignupPage:33 - SignupPage elements initialized.
+  2024-09-22 19:22:39 INFO  SignupPage:37 - Filling in signup details: FirstName=Ram, LastName=Kumar, Email=ramkumar908040@gmail.com
+  2024-09-22 19:22:40 INFO  SignupPage:43 - Submitting signup form.
+  2024-09-22 19:22:43 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 19:22:43 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 19:22:43 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 19:22:43 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:31:55 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:31:55 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:31:55 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:31:55 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 20:31:55 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 20:31:58 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 20:31:58 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 20:31:58 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 20:31:58 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 20:31:58 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 20:32:01 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:32:01 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:32:01 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:32:01 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:32:01 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 20:32:05 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:32:05 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:32:05 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:32:05 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-09-22 20:32:05 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:32:05 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:32:05 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:32:05 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 20:32:05 INFO  TestBase:71 - Browser closed after the test.
+  2024-09-22 20:32:06 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:32:06 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:32:06 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:32:06 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 20:32:06 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 20:32:07 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 20:32:07 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 20:32:07 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 20:32:07 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 20:32:07 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 20:32:10 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:32:10 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:32:10 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:32:10 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:32:10 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 20:32:14 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:32:14 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:32:14 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:32:14 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-09-22 20:32:14 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:32:14 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:32:14 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:32:14 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 20:32:14 INFO  TestBase:71 - Browser closed after the test.
+  2024-09-22 20:34:15 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:34:15 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:34:15 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:34:15 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 20:34:15 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 20:34:17 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 20:34:17 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 20:34:17 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 20:34:17 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 20:34:17 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 20:34:22 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:34:22 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:34:22 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:34:22 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:34:22 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 20:34:26 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:34:26 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:34:26 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:34:26 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-09-22 20:34:26 INFO  LoginPage:36 - Attempting login with email: ramkumar908040@gmail.com
+  2024-09-22 20:34:30 INFO  LoginPage:40 - Login form submitted.
+  2024-09-22 20:34:30 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:34:30 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:34:30 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:34:30 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:34:30 INFO  HomePage:100 - Validating home page title: Actual - My Account - Allbirds
+  2024-09-22 20:34:30 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:34:30 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:34:30 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:34:30 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 20:34:30 INFO  TestBase:71 - Browser closed after the test.
+  2024-09-22 20:34:30 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:34:30 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:34:30 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:34:30 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 20:34:30 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 20:34:31 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 20:34:31 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 20:34:31 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 20:34:31 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 20:34:31 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 20:34:35 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:34:35 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:34:35 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:34:35 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:34:35 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 20:34:40 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:34:40 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:34:40 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:34:40 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-09-22 20:34:40 INFO  LoginPage:36 - Attempting login with email: ramkumar908040@gmail.com
+  2024-09-22 20:34:44 INFO  LoginPage:40 - Login form submitted.
+  2024-09-22 20:34:44 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:34:44 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:34:44 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:34:44 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:34:44 INFO  LoginPage:61 - Validating the error message for incorrect login credentials.
+  2024-09-22 20:34:54 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:34:54 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:34:54 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:34:54 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 20:34:54 INFO  TestBase:71 - Browser closed after the test.
+  2024-09-22 20:35:43 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:35:43 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:35:43 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:35:43 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 20:35:43 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 20:35:45 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 20:35:45 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 20:35:45 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 20:35:45 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 20:35:45 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 20:35:48 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:35:48 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:35:48 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:35:48 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:35:48 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 20:35:52 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:35:52 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:35:52 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:35:52 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-09-22 20:35:52 INFO  LoginPage:36 - Attempting login with email: ramkumar908040@gmail.com
+  2024-09-22 20:35:56 INFO  LoginPage:40 - Login form submitted.
+  2024-09-22 20:35:56 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:35:56 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:35:56 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:35:56 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:35:56 INFO  HomePage:100 - Validating home page title: Actual - My Account - Allbirds
+  2024-09-22 20:35:56 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:35:56 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:35:56 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:35:56 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 20:35:56 INFO  TestBase:72 - Browser closed after the test.
+  2024-09-22 20:35:56 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:35:56 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:35:56 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:35:56 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 20:35:56 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 20:35:57 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 20:35:57 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 20:35:57 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 20:35:57 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 20:35:57 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 20:36:00 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:36:00 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:36:00 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:36:00 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:36:00 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:36:00 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:36:00 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:36:00 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 20:36:00 INFO  TestBase:72 - Browser closed after the test.
+  2024-09-22 20:38:15 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:38:15 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:38:15 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:38:15 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 20:38:15 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 20:38:16 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 20:38:16 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 20:38:16 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 20:38:16 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 20:38:16 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 20:38:19 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:38:19 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:38:19 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:38:19 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:38:19 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 20:38:26 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:38:26 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:38:26 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:38:26 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-09-22 20:38:26 INFO  LoginPage:36 - Attempting login with email: ramkumar908040@gmail.com
+  2024-09-22 20:38:31 INFO  LoginPage:40 - Login form submitted.
+  2024-09-22 20:38:31 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:38:31 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:38:31 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:38:31 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:38:33 INFO  HomePage:100 - Validating home page title: Actual - Allbirds: Comfortable, Sustainable Shoes & Apparel
+  2024-09-22 20:38:33 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:38:33 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:38:33 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:38:34 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 20:38:34 INFO  TestBase:75 - Browser closed after the test.
+  2024-09-22 20:38:34 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:38:34 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:38:34 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:38:34 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 20:38:34 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 20:38:35 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 20:38:35 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 20:38:35 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 20:38:35 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 20:38:35 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 20:38:42 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:38:42 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:38:42 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:38:42 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:38:42 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 20:38:49 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:38:49 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:38:49 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:38:49 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-09-22 20:38:49 INFO  LoginPage:36 - Attempting login with email: ramkumar908040@gmail.com
+  2024-09-22 20:38:52 INFO  LoginPage:40 - Login form submitted.
+  2024-09-22 20:38:52 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:38:52 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:38:52 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:38:52 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:38:55 INFO  LoginPage:61 - Validating the error message for incorrect login credentials.
+  2024-09-22 20:39:05 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:39:05 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:39:05 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:39:05 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 20:39:05 INFO  TestBase:75 - Browser closed after the test.
+  2024-09-22 20:40:22 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:40:22 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:40:22 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:40:22 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 20:40:22 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 20:40:24 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 20:40:24 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 20:40:24 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 20:40:24 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 20:40:24 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 20:40:26 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:40:26 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:40:26 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:40:26 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:40:26 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 20:40:30 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:40:30 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:40:30 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:40:30 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-09-22 20:40:30 INFO  LoginPage:36 - Attempting login with email: ramkumar908040@gmail.com
+  2024-09-22 20:40:34 INFO  LoginPage:40 - Login form submitted.
+  2024-09-22 20:40:34 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:40:34 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:40:34 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:40:34 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:40:37 INFO  HomePage:100 - Validating home page title: Actual - Allbirds: Comfortable, Sustainable Shoes & Apparel
+  2024-09-22 20:40:37 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:40:37 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:40:37 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:40:37 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 20:40:37 INFO  TestBase:80 - Browser closed after the test.
+  2024-09-22 20:40:37 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:40:37 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:40:37 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:40:37 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 20:40:37 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 20:40:38 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 20:40:38 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 20:40:38 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 20:40:38 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 20:40:38 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 20:40:41 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:40:41 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:40:41 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:40:41 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:40:41 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 20:40:46 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:40:46 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:40:46 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:40:46 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-09-22 20:40:46 INFO  LoginPage:36 - Attempting login with email: ramkumar908040@gmail.com
+  2024-09-22 20:40:50 INFO  LoginPage:40 - Login form submitted.
+  2024-09-22 20:40:50 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:40:50 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:40:50 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:40:50 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:40:52 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 20:40:56 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:40:56 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:40:56 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:40:56 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-09-22 20:40:56 INFO  LoginPage:61 - Validating the error message for incorrect login credentials.
+  2024-09-22 20:41:06 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:41:06 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:41:06 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:41:06 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 20:41:06 INFO  TestBase:80 - Browser closed after the test.
+  2024-09-22 20:41:47 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:41:47 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:41:47 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:41:47 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 20:41:47 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 20:41:48 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 20:41:49 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 20:41:49 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 20:41:49 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 20:41:49 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 20:41:52 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:41:52 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:41:52 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:41:52 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:41:52 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 20:41:54 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:41:54 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:41:54 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:41:54 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-09-22 20:41:54 INFO  LoginPage:36 - Attempting login with email: ramkumar908040@gmail.com
+  2024-09-22 20:41:54 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:41:54 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:41:54 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:41:54 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 20:41:54 INFO  TestBase:81 - Browser closed after the test.
+  2024-09-22 20:41:54 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:41:54 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:41:54 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:41:54 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 20:41:54 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 20:42:35 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 20:42:35 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 20:42:35 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 20:42:35 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 20:42:35 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 20:42:35 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:42:35 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:42:35 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:42:38 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 20:42:38 INFO  TestBase:81 - Browser closed after the test.
+  2024-09-22 20:48:14 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:48:14 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:48:14 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:48:14 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 20:48:14 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 20:48:16 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 20:48:16 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 20:48:16 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 20:48:16 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 20:48:16 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 20:48:20 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:48:20 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:48:20 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:48:20 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:48:20 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 20:48:23 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:48:23 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:48:23 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:48:23 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-09-22 20:48:23 INFO  LoginPage:36 - Attempting login with email: ramkumar908040@gmail.com
+  2024-09-22 20:48:27 INFO  LoginPage:40 - Login form submitted.
+  2024-09-22 20:48:27 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:48:27 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:48:27 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:48:27 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:48:30 INFO  HomePage:100 - Validating home page title: Actual - Allbirds: Comfortable, Sustainable Shoes & Apparel
+  2024-09-22 20:48:30 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:48:30 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:48:30 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:48:30 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 20:48:30 INFO  TestBase:81 - Browser closed after the test.
+  2024-09-22 20:48:30 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:48:30 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:48:30 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:48:30 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 20:48:30 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 20:48:31 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 20:48:31 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 20:48:31 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 20:48:31 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 20:48:31 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 20:48:34 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:48:34 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:48:34 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:48:34 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:48:34 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 20:48:38 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:48:38 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:48:38 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:48:38 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-09-22 20:48:38 INFO  LoginPage:36 - Attempting login with email: ramkumar908040@gmail.com
+  2024-09-22 20:48:42 INFO  LoginPage:40 - Login form submitted.
+  2024-09-22 20:48:42 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:48:42 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:48:42 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:48:42 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:48:43 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 20:48:46 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:48:46 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:48:46 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:48:46 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-09-22 20:48:46 INFO  LoginPage:36 - Attempting login with email: ramkumar908040@gmail.com
+  2024-09-22 20:48:50 INFO  LoginPage:40 - Login form submitted.
+  2024-09-22 20:48:50 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:48:50 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:48:50 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:48:50 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:48:50 INFO  LoginPage:61 - Validating the error message for incorrect login credentials.
+  2024-09-22 20:48:50 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 20:48:53 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:48:53 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:48:53 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:48:53 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-09-22 20:48:53 INFO  LoginPage:46 - Validating login page title:  , Actual - Login or Create an Account - Allbirds
+  2024-09-22 20:48:53 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:48:53 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:48:53 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:48:54 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 20:48:54 INFO  TestBase:81 - Browser closed after the test.
+  2024-09-22 20:48:54 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:48:54 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:48:54 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:48:54 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 20:48:54 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 20:48:54 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 20:48:55 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 20:48:55 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 20:48:55 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 20:48:55 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 20:48:58 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:48:58 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:48:58 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:48:58 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:48:58 INFO  HomePage:86 - Navigating to User account page.
+  2024-09-22 20:49:00 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:49:00 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:49:00 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:49:00 INFO  SignupPage:33 - SignupPage elements initialized.
+  2024-09-22 20:49:00 INFO  SignupPage:37 - Filling in signup details: FirstName=Ram, LastName=Kumar, Email=ramkumar908040@gmail.com
+  2024-09-22 20:49:01 INFO  SignupPage:43 - Submitting signup form.
+  2024-09-22 20:49:04 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:49:04 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:49:04 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:49:04 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 20:49:07 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 20:49:07 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 20:49:07 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 20:49:07 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 20:49:07 INFO  TestBase:81 - Browser closed after the test.
+  2024-09-22 21:00:35 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:00:35 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:00:35 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:00:35 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 21:00:35 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 21:00:37 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 21:00:37 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 21:00:37 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 21:00:37 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 21:00:37 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 21:00:43 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:00:43 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:00:43 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:00:43 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 21:00:43 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:00:43 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:00:43 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:00:43 INFO  CartPage:22 - CartPage elements initialized.
+  2024-09-22 21:00:48 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 21:00:53 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:00:53 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:00:53 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:00:53 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-09-22 21:00:53 INFO  LoginPage:36 - Attempting login with email: ramkumar908040@gmail.com
+  2024-09-22 21:00:58 INFO  LoginPage:40 - Login form submitted.
+  2024-09-22 21:00:58 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:00:58 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:00:58 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:00:58 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 21:00:58 INFO  HomePage:42 - Navigating to Men's product category.
+  2024-09-22 21:00:58 INFO  HomePage:46 - Selecting Men's product: Active Shoes
+  2024-09-22 21:01:01 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:01:01 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:01:01 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:01:01 INFO  CartPage:20 - CartPage elements initialized.
+  2024-09-22 21:01:06 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:01:06 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:01:06 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:01:06 INFO  ProductPage:35 - CartPage elements initialized.
+  2024-09-22 21:01:09 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:01:09 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:01:09 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:01:09 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 21:01:09 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:01:09 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:01:09 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:01:10 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 21:01:10 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:01:10 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:01:10 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:01:10 INFO  TestBase:81 - Browser closed after the test.
+  2024-09-22 21:01:10 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:01:10 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:01:10 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:01:10 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 21:01:10 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 21:01:11 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 21:01:11 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 21:01:11 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 21:01:11 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 21:01:11 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 21:01:15 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:01:15 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:01:15 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:01:15 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 21:01:15 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:01:15 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:01:15 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:01:15 INFO  CartPage:22 - CartPage elements initialized.
+  2024-09-22 21:01:19 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 21:01:22 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:01:22 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:01:22 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:01:22 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-09-22 21:01:22 INFO  LoginPage:36 - Attempting login with email: ramkumar908040@gmail.com
+  2024-09-22 21:01:25 INFO  LoginPage:40 - Login form submitted.
+  2024-09-22 21:01:25 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:01:25 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:01:25 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:01:25 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 21:01:25 INFO  HomePage:92 - Navigating to Cart page.
+  2024-09-22 21:01:25 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:01:25 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:01:25 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:01:25 INFO  CartPage:22 - CartPage elements initialized.
+  2024-09-22 21:01:25 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:01:25 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:01:25 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:01:26 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 21:01:26 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:01:26 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:01:26 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:01:26 INFO  TestBase:81 - Browser closed after the test.
+  2024-09-22 21:45:15 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:45:15 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:45:15 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:45:15 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 21:45:15 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 21:45:25 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 21:45:26 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 21:45:26 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 21:45:26 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 21:45:26 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 21:45:29 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:45:29 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:45:29 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:45:29 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 21:45:29 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:45:29 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:45:29 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:45:29 INFO  CartPage:22 - CartPage elements initialized.
+  2024-09-22 21:45:34 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 21:45:38 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:45:38 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:45:38 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:45:38 INFO  LoginPage:32 - LoginPage elements initialized.
+  2024-09-22 21:45:38 INFO  LoginPage:36 - Attempting login with email: ramkumar908040@gmail.com
+  2024-09-22 21:45:42 INFO  LoginPage:40 - Login form submitted.
+  2024-09-22 21:45:42 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:45:42 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:45:42 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:45:42 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 21:45:42 INFO  HomePage:42 - Navigating to Men's product category.
+  2024-09-22 21:45:42 INFO  HomePage:46 - Selecting Men's product: Active Shoes
+  2024-09-22 21:45:45 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:45:45 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:45:45 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:45:45 INFO  CartPage:20 - CartPage elements initialized.
+  2024-09-22 21:45:49 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:45:49 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:45:49 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:45:49 INFO  ProductPage:35 - CartPage elements initialized.
+  2024-09-22 21:45:52 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:45:52 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:45:52 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:45:52 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 21:45:52 INFO  HomePage:92 - Navigating to Cart page.
+  2024-09-22 21:45:52 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:45:52 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:45:52 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:45:52 INFO  CartPage:22 - CartPage elements initialized.
+  2024-09-22 21:45:52 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:45:52 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:45:52 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:45:52 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 21:45:52 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:45:52 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:45:52 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:45:52 INFO  TestBase:81 - Browser closed after the test.
+  2024-09-22 21:45:52 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:45:52 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:45:52 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:45:52 INFO  TestBase:44 - Browser selected from properties file: chrome
+  2024-09-22 21:45:52 INFO  TestBase:47 - Initializing Chrome browser.
+  2024-09-22 21:45:54 INFO  TestBase:60 - Maximizing the browser window.
+  2024-09-22 21:45:54 INFO  TestBase:63 - Deleting all cookies.
+  2024-09-22 21:45:54 INFO  TestBase:66 - Setting page load timeout to 20 seconds.
+  2024-09-22 21:45:54 INFO  TestBase:69 - Setting implicit wait timeout to 10 seconds.
+  2024-09-22 21:45:54 INFO  TestBase:74 - Navigating to the URL: https://www.allbirds.com/account/login?return_url=%2Faccount
+  2024-09-22 21:45:56 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:45:56 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:45:56 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:45:56 INFO  HomePage:38 - HomePage elements initialized.
+  2024-09-22 21:45:56 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:45:56 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:45:56 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:45:56 INFO  CartPage:22 - CartPage elements initialized.
+  2024-09-22 21:45:56 INFO  HomePage:80 - Navigating to User account page.
+  2024-09-22 21:45:56 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:45:56 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:45:56 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:45:57 INFO  TestBase:42 - Browser closed after the test.
+  2024-09-22 21:45:57 INFO  TestBase:28 - Log4j has been initialized.
+  2024-09-22 21:45:57 INFO  TestBase:33 - Loading the configuration properties file.
+  2024-09-22 21:45:57 INFO  TestBase:36 - Configuration file loaded successfully.
+  2024-09-22 21:45:57 INFO  TestBase:81 - Browser closed after the test.
+  
